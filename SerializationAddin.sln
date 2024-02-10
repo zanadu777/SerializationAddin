@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationAddin", "SerializationAddin\SerializationAddin.csproj", "{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|arm64 = Debug|arm64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|arm64 = Release|arm64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Debug|arm64.ActiveCfg = Debug|arm64
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Debug|arm64.Build.0 = Debug|arm64
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Debug|x86.ActiveCfg = Debug|x86
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Debug|x86.Build.0 = Debug|x86
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Release|arm64.ActiveCfg = Release|arm64
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Release|arm64.Build.0 = Release|arm64
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Release|x86.ActiveCfg = Release|x86
+		{B87FE33E-54F1-4E96-B40F-3FEFB0B1996E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45268A95-CDD7-4874-A54A-007F24BD4F00}
+	EndGlobalSection
+EndGlobal
